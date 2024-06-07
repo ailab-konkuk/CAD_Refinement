@@ -3,8 +3,9 @@
 # CAD_Refinement
 Repository for paper "*Enhanced Pose Detection of Nearby Vehicles Using LiDAR and Prior Shape for Autonomous Driving*"
 
-This repository provides code of prior model-based detection refinement moudle, dataset and evaluation tool
+[Presentation Video Link (TBD)](TBD)
 
+This repository provides code of prior model-based detection refinement moudle, dataset and evaluation tool  
 (The code will be uploaded after the review process!)
 
 <div align="center">
@@ -15,6 +16,7 @@ This repository provides code of prior model-based detection refinement moudle, 
 <br>
 
 <div align="center">
+<img src="./images/various_voxel_size.png" width="800">
 <img src="./images/detection_improvement_table.png" width="800">
 <br />
 <b>Detection improvement (mIoU) results by various voxel size</b>
