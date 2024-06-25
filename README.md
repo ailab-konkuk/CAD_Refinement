@@ -3,7 +3,9 @@
 # CAD_Refinement
 Repository for paper "*Enhanced Pose Detection of Nearby Vehicles Using LiDAR and Prior Shape for Autonomous Driving*"
 
-[Presentation Video Link ](https://www.youtube.com/watch?v=HcDK91Y4lso)
+<div align="center">
+<a href="https://youtu.be/HcDK91Y4lso" target="_blank"><img src="images/presentation_cover.png" alt="video" width="60%" /></a>
+</div>
 
 This repository provides code of prior model-based detection refinement moudle, dataset and evaluation tool  
 (The code will be uploaded after the review process!)
